@@ -52,27 +52,28 @@ Você pode utilizar ferramentas como Postman ou cURL para consumir os endpoints 
    ```
 
 2. Instale as dependências:
- ```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Inicie o servidor local:
- ```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 4. O servidor estará disponível em:
- ```bash
-http://localhost:3000
-```
+   ```bash
+   http://localhost:3000
+   ```
 
-📝 Endpoints da API
+## 📝 Endpoints da API
 
 Postagens
 - GET /posts: Lista todas as postagens.
 - POST /upload: Cria uma nova postagem.
 - PUT / upload: Atualiza uma postagem existente.
 
+##
 
 🧑‍💻 Desenvolvido por
 Livia Brandao
