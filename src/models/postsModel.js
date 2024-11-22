@@ -1,3 +1,4 @@
+import "dotenv/config";
 import conectarAoBanco from "../config/dbConfig.js";
 import { ObjectId } from "mongodb";
 
